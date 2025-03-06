@@ -11,4 +11,4 @@ The [QuPath](https://qupath.github.io/) Detection Tools extension simplifies the
 
 > **Note:** QuPath has built-in multi-selection (Alt/Opt + drag), but this extension may offer a more reliable alternative.
 
-For a visual demonstration, see in `example_video.mp4` in the repo.
+For a visual demonstration, see `example_video.mp4` in the repo.
